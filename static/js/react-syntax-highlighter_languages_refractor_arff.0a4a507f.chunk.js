@@ -1,0 +1,2 @@
+(this["webpackJsonpgl-landing-page"]=this["webpackJsonpgl-landing-page"]||[]).push([[8],{551:function(a,n,e){"use strict";function t(a){a.languages.arff={comment:/%.*/,string:{pattern:/(["'])(?:\\.|(?!\1)[^\\\r\n])*\1/,greedy:!0},keyword:/@(?:attribute|data|end|relation)\b/i,number:/\b\d+(?:\.\d+)?\b/,punctuation:/[{},]/}}a.exports=t,t.displayName="arff",t.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_arff.0a4a507f.chunk.js.map
