@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.786d704d.chunk.js",
-    "main.js.map": "/static/js/main.786d704d.chunk.js.map",
+    "main.js": "/static/js/main.e9d87055.chunk.js",
+    "main.js.map": "/static/js/main.e9d87055.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.18851401.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.18851401.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.68b88d02.chunk.js",
@@ -306,17 +306,18 @@
     "react-syntax-highlighter_languages_refractor_yaml.js.map": "/static/js/react-syntax-highlighter_languages_refractor_yaml.9a774387.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.61a8607a.js",
     "runtime-main.js.map": "/static/js/runtime-main.61a8607a.js.map",
-    "static/js/153.88ead778.chunk.js": "/static/js/153.88ead778.chunk.js",
-    "static/js/153.88ead778.chunk.js.map": "/static/js/153.88ead778.chunk.js.map",
+    "static/js/153.9a3d95fe.chunk.js": "/static/js/153.9a3d95fe.chunk.js",
+    "static/js/153.9a3d95fe.chunk.js.map": "/static/js/153.9a3d95fe.chunk.js.map",
     "static/js/154.8651cf71.chunk.js": "/static/js/154.8651cf71.chunk.js",
     "static/js/154.8651cf71.chunk.js.map": "/static/js/154.8651cf71.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/153.88ead778.chunk.js.LICENSE.txt": "/static/js/153.88ead778.chunk.js.LICENSE.txt",
+    "static/js/153.9a3d95fe.chunk.js.LICENSE.txt": "/static/js/153.9a3d95fe.chunk.js.LICENSE.txt",
     "static/media/OnyxiaLogo.5b583358.svg": "/static/media/OnyxiaLogo.5b583358.svg",
     "static/media/downArrow.svg": "/static/media/downArrow.23758f40.svg",
     "static/media/example.55a6aef8.gif": "/static/media/example.55a6aef8.gif",
     "static/media/hero-image.372734dc.png": "/static/media/hero-image.372734dc.png",
-    "static/media/logo.ca983c7f.png": "/static/media/logo.ca983c7f.png",
+    "static/media/logo-small.044e2bf5.png": "/static/media/logo-small.044e2bf5.png",
+    "static/media/logo.f3b635f2.png": "/static/media/logo.f3b635f2.png",
     "static/media/material-ui.847e6512.png": "/static/media/material-ui.847e6512.png",
     "static/media/onyxia-ui.59b00a9f.png": "/static/media/onyxia-ui.59b00a9f.png",
     "static/media/powerhooksLogo.ee97676b.svg": "/static/media/powerhooksLogo.ee97676b.svg",
@@ -325,7 +326,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.61a8607a.js",
-    "static/js/153.88ead778.chunk.js",
-    "static/js/main.786d704d.chunk.js"
+    "static/js/153.9a3d95fe.chunk.js",
+    "static/js/main.e9d87055.chunk.js"
   ]
 }
