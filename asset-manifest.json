@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.3fb749e6.chunk.js",
-    "main.js.map": "/static/js/main.3fb749e6.chunk.js.map",
+    "main.js": "/static/js/main.f9356191.chunk.js",
+    "main.js.map": "/static/js/main.f9356191.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.4b3947ee.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.4b3947ee.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.2dd44c4c.chunk.js",
@@ -314,7 +314,7 @@
     "static/js/153.54d14c4b.chunk.js.LICENSE.txt": "/static/js/153.54d14c4b.chunk.js.LICENSE.txt",
     "static/media/OnyxiaLogo.5b583358.svg": "/static/media/OnyxiaLogo.5b583358.svg",
     "static/media/downArrow.svg": "/static/media/downArrow.23758f40.svg",
-    "static/media/hero-image.372734dc.png": "/static/media/hero-image.372734dc.png",
+    "static/media/hero-image.f597bbcc.png": "/static/media/hero-image.f597bbcc.png",
     "static/media/logo-small.044e2bf5.png": "/static/media/logo-small.044e2bf5.png",
     "static/media/logo.f3b635f2.png": "/static/media/logo.f3b635f2.png",
     "static/media/material-ui.847e6512.png": "/static/media/material-ui.847e6512.png",
@@ -327,6 +327,6 @@
   "entrypoints": [
     "static/js/runtime-main.2f421e05.js",
     "static/js/153.54d14c4b.chunk.js",
-    "static/js/main.3fb749e6.chunk.js"
+    "static/js/main.f9356191.chunk.js"
   ]
 }
