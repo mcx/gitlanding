@@ -1,6 +1,6 @@
 {
     "name": "gitlanding",
-    "version": "2.3.22",
+    "version": "2.3.23",
     "description": "A module that generates a landing page for your projects",
     "repository": {
         "type": "git",
@@ -37,11 +37,11 @@
     "keywords": [],
     "homepage": "https://github.com/thieryw/gitlanding",
     "peerDependencies": {
-        "onyxia-ui": "^6.11.4",
-        "@mui/material": "^6.1.7",
         "@emotion/react": "^11.0.0",
-        "react": "^17.0.0 || ^18.0.0 || ^19.0.0",
-        "@types/react": "^17.0.0 || ^18.0.0 || ^19.0.0"
+        "@mui/material": "^6.1.7",
+        "@types/react": "^17.0.0 || ^18.0.0 || ^19.0.0",
+        "onyxia-ui": "^6.11.4",
+        "react": "^17.0.0 || ^18.0.0 || ^19.0.0"
     },
     "dependencies": {
         "@mui/icons-material": "^6.1.7",
@@ -59,6 +59,7 @@
         "@types/node": "^22.5.5",
         "@types/react": "^18.3.5",
         "@types/react-dom": "^18.3.0",
+        "chokidar": "^3.6.0",
         "evt": "^2.5.9",
         "husky": "^4.3.0",
         "lint-staged": "^10.5.4",
@@ -67,8 +68,7 @@
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
         "storybook-dark-mode": "^1.1.0",
-        "typescript": "^5.6.2",
         "tsx": "^4.19.1",
-        "chokidar": "^3.6.0"
+        "typescript": "^5.6.2"
     }
 }
