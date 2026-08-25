@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import useEmblaCarousel from "embla-carousel-react";
 import { tss } from "./tss";
 import ArrowForwardIos from "@mui/icons-material/ArrowForwardIos";
-import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
+import ArrowBackIosNewIcon from "@mui/icons-material/ArrowBackIosNew";
 import { Text } from "onyxia-ui/Text";
 import { Icon } from "onyxia-ui/Icon";
 import { useCallbackFactory } from "powerhooks/useCallbackFactory";
